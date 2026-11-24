@@ -1,0 +1,1 @@
+Upload index.html and the entire assets folder to the root of your GitHub repository. Keep the filenames and folder structure unchanged. All main experience-book images and logos are local. Travel gallery images still use Unsplash internet URLs.
